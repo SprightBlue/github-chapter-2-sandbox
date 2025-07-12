@@ -1,1 +1,3 @@
-Go ahead and fork this repository before cloning to your local computer! 😊
+# 🚀 Práctica Git & GitHub
+
+Repositorio para aprender Git y GitHub de forma práctica.
